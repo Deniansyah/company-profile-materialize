@@ -17,3 +17,25 @@
     max-width: 140px;
     filter: drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.6));
 }
+
+.services {
+    background-color: #eaeaea;
+    padding: 10px 0px;
+}
+
+.portfolio {
+    padding: 10px 0px;
+}
+
+.portfolio img {
+    margin-bottom: 20px;
+}
+
+.contact {
+    background-color: #eaeaea;
+    padding: 10px 0px;
+}
+
+footer {
+    padding: 10px 0px;
+}
